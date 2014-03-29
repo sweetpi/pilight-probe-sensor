@@ -3,7 +3,7 @@ pilight-probe-sensor
 
 A custom 433mhz sensor for pilight.
 
-protcol
+protocol
 -------
 
 The prob protocol for pilight See: http://www.pilight.org/development/protocols/#where for install.
@@ -27,3 +27,10 @@ attiny
 -----
 
 compile with arduino?...
+
+
+Related discussions:
+-------------------
+
+  * https://github.com/pimatic/pimatic/issues/74
+  * http://forum.pilight.org/Thread-Idea-PIR-wireless-motion-sensor?page=5
