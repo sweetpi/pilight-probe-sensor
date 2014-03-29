@@ -6,7 +6,7 @@ A custom 433mhz sensor for pilight.
 protocol
 -------
 
-The prob protocol for pilight See: http://www.pilight.org/development/protocols/#where for install.
+The probe protocol for pilight See: http://www.pilight.org/development/protocols/#where for install.
 
 ###config
 
